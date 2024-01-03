@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lilia</h1>
-<h3 align="center">A passionate FullStack Web developer</h3>
+<h3 align="center">A passionate Junior FullStack Web developer using React JS and Django</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liliaferrouk&label=Profile%20views&color=0e75b6&style=flat" alt="liliaferrouk" /> </p>
 
