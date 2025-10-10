@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lilia</h1>
-<h3 align="center">A fourth year Computer Science student at the University of Grenoble Alpes</h3>
+<h3 align="center">A second-year Master’s student in Software Engineering at the University of Grenoble Alpes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liliaferrouk&label=Profile%20views&color=0e75b6&style=flat" alt="liliaferrouk" /> </p>
 
