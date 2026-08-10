@@ -5,7 +5,6 @@
 - 🎓 I'm a **Master 2 student in Software Engineering** at **Université Grenoble Alpes**.
 - ⚛️ Passionate about **frontend development** with strong experience in **React** and Progressive Web Apps.
 - 🛠️ Solid foundations in **Java**, **SQL**, and backend development.
-- 📫 Reach me at: **ferrouklilia@gmail.com**
 
 ---
 
